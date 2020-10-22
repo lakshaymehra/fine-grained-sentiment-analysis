@@ -84,7 +84,7 @@ This code will output a 'fastText_predicted_sentiments.csv' file containing the 
 
 
 ### Contact :
-For any question, please contact
+For any query/feedback, please contact:
 ```
 Lakshay Mehra: mehralakshay2@gmail.com
 ```
