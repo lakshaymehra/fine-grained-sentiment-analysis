@@ -5,23 +5,23 @@
 
 ### File Descriptions:
 
-* #####'amazon_review.py' :
+* ##### 'amazon_review.py' :
     contains the code to scrape Amazon Reviews.
-* #####'stanford_sentiment_treebank_exploratory_data_analysis.py' :
+* ##### 'stanford_sentiment_treebank_exploratory_data_analysis.py' :
     contains the code to generate train ('sst_train.txt'), dev ('sst_dev.txt'), and test ('sst_test.txt') files and perform EDA.
 * ##### 'svm_train_and_predict.py' :
     contains the code to train and predict using SVM model and store as a CSV ('svm_predicted_sentiments.csv').
 * ##### 'train_fasttext_sentiment_analysis.py' :
     contains the code to train FastText model and store non-quantized('sst.bin') as well as quantized('sst_quantized.ftz') models.
-* #####'fasttext_predict_sentiment.py' :
+* ##### 'fasttext_predict_sentiment.py' :
     contains the code to predict sentiments using FastText for Amazon Reviews and store as a CSV ('fastText_predicted_sentiments.csv').
-* #####'visualize_results.py' :
+* ##### 'visualize_results.py' :
     contains the code to Visualize Results.
-* #####'customer_reviews.csv' : 
+* ##### 'customer_reviews.csv' : 
     contains the Scraped Reviews.
-* #####'svm_predicted_sentiments.csv' :
+* ##### 'svm_predicted_sentiments.csv' :
     contains the sentiments predicted using SVM.
-* #####'fastText_predicted_sentiments.csv' :
+* ##### 'fastText_predicted_sentiments.csv' :
     contains the sentiments predicted using FastText.
 
 #### Run 'amazon_review.py' at Command Line using Scrapy Runspider:
